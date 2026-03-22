@@ -1,4 +1,4 @@
-# AgentHub — MERN Stack Agent Management Appp
+# AgentHub — MERN Stack Agent Management App 
 
 A full-stack web application for managing agents and distributing contact lists, built with MongoDB, Express.js, React.js, and Node.js.
 
